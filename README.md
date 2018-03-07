@@ -1,3 +1,3 @@
 # lostjs13k
 
-Card Game for JS13K
+Matching Card Game for JS13K
