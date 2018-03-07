@@ -2,4 +2,4 @@
 
 Matching Card Game for JS13K
 
-Multiple matching
+Multiple matching formats
